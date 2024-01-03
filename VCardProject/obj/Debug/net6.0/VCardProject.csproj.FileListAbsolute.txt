@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\bin\Debug\net6.0\VCardProject.exe
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\bin\Debug\net6.0\VCardProject.deps.json
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\bin\Debug\net6.0\VCardProject.runtimeconfig.json
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\bin\Debug\net6.0\VCardProject.dll
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\bin\Debug\net6.0\VCardProject.pdb
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\obj\Debug\net6.0\VCardProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\obj\Debug\net6.0\VCardProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\obj\Debug\net6.0\VCardProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\obj\Debug\net6.0\VCardProject.AssemblyInfo.cs
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\obj\Debug\net6.0\VCardProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\obj\Debug\net6.0\VCardProject.dll
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\obj\Debug\net6.0\refint\VCardProject.dll
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\obj\Debug\net6.0\VCardProject.pdb
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\obj\Debug\net6.0\VCardProject.genruntimeconfig.cache
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\obj\Debug\net6.0\ref\VCardProject.dll
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\RNET103\Labs\VCardProject\obj\Debug\net6.0\VCardProject.csproj.CopyComplete
