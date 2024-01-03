@@ -57,30 +57,30 @@
                             }
                             else
                             {
-                                // Default vCard 'string'i qaytarılması
+                                // Default vCard 'string'inin 'List'ə əlavə edilməsi
                                 createdFiles.Add("BEGIN:VCARD\nEND:VCARD");
                             }
                         }
                         else
                         {
                             Console.WriteLine($"Data request error: {response.StatusCode}");
-                            // Default vCard 'string'i qaytarılması
+                            // Default vCard 'string'inin 'List'ə əlavə edilməsi
                             createdFiles.Add("BEGIN:VCARD\nEND:VCARD");
                         }
                     }
                     catch (Exception ex)
                     {
                         Console.WriteLine($"There was an error: {ex.Message}");
-                        // Default vCard 'string'i qaytarılması
+                        // Default vCard 'string'inin 'List'ə əlavə edilməsi
                         createdFiles.Add("BEGIN:VCARD\nEND:VCARD");
                     }
                 }
             }
-            // Вернуть список созданных файлов
+            // Yaradılan faylların adlarının qaytarılması
             return createdFiles;
         }
 
-        // Göstərilən ada malik fayla vCard formatında sətri asinxron yazan metod
+        // Göstərilən ada malik fayla, vCard formatında sətri asinxron yazan metod
         private async Task WriteVCardToFileAsync(string vCard, string fileName)
         {
             try
