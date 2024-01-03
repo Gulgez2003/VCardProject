@@ -23,18 +23,7 @@ This project implements a `VCardService` class in the `VCardProject.Implementati
     - It converts the user data into VCard format and writes it to unique files.
     - The method returns a list of file names of the created VCard files.
 
-3. **Handle the Result:**
-
-    ```csharp
-    foreach (var fileName in createdFiles)
-    {
-        Console.WriteLine($"Created VCard file: {fileName}");
-    }
-    ```
-
-    - Iterate through the list of created file names to handle the result.
-
-4. **VCard Files:**
+3. **VCard Files:**
 
     - The created VCard files are saved in the temporary directory with unique file names.
     - File names are displayed in the console for each successfully created VCard.
