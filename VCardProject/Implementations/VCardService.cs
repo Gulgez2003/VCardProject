@@ -85,7 +85,7 @@
         {
             try
             {
-                // vCard sətirinin .vcf uzantılı fayla yazılması
+                // vCard sətirinin .txt uzantılı fayla yazılması
                 await File.WriteAllTextAsync(fileName, vCard);
 
                 Console.WriteLine($"The {fileName} file has been successfully created.");
@@ -101,7 +101,7 @@
         private string GetUniqueFileName()
         {
             // Müvəqqəti qovluqda unikal fayl adının yaradılması
-            return Path.Combine(Path.GetTempPath(), Guid.NewGuid().ToString("N") + ".vcf");
+            return Path.Combine(Path.GetTempPath(), Guid.NewGuid().ToString("N") + ".txt");
         }
     }
 }
